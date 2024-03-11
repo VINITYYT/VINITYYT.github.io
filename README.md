@@ -1,19 +1,18 @@
-# Welcome to My Litle Info Site
+# Welcome to My Little Info Site
 (Made By Vinity)
 
-So Hello This Is a Passion Project Basicly i Made It So It Can Be easer To Modify The Game
+So Hello This Is a Passion Project Basically I Made It So It Can Be Easier To Modify The Game
 
-CURENT VERSION 1
+**CURRENT VERSION 1**
 
-Version info 
+### Version Info
 
+```css
 body {
     background-color: black;
     color: white;
+    Bata version 1 i am currently
+    Working on a Better Looking
+    App And Thank you For Using
+    My App <3
 }
-Bata version 1 i am curenty
-Working on a Better Looking
-App And Thank you For Using
-My App <3
-
-css
