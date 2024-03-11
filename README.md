@@ -7,10 +7,7 @@ So Hello This Is a Passion Project Basically I Made It So It Can Be Easier To Mo
 
 ### Version Info
 
-```css
 body {
-    background-color: black;
-    color: white;
 }
 
     Bata version 1 i am currently
