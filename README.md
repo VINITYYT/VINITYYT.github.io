@@ -12,5 +12,12 @@ So Hello This Is a Passion Project Basically I Made It So It Can Be Easier To Mo
     App And Thank you For Using
     My App <3
 
-#### umm idk
-    sdsd
+#### INFO ABOUT ME
+    I am 16 i am a App Develper 
+    i also try to make games
+    (am shti at it)
+    making apps is my specilty
+    and i am a youtuber
+    i want to get 200 subs by
+    2025
+######________________________________________
