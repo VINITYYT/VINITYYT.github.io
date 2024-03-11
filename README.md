@@ -21,6 +21,8 @@ So Hello This Is a Passion Project Basically I Made It So It Can Be Easier To Mo
     i want to get 200 subs by
     2025
     
-_______________________________________
+You can visit my [YouTube channel](https://www.youtube.com/channel/UCF35iqQ2BRqF4IYQA4Ln_0A)
 
-    So Um That's It For Today
+---
+
+So Um That's It For Today
