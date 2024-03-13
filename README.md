@@ -14,14 +14,14 @@ So Hello This Is a Passion Project Basically I Made It So It Can Be Easier To Mo
 
 #### INFO ABOUT ME
     I am 16 i am a App Developer 
-    i also try to make games
-    (am shit at it)
+    i also try to make games (am shit at it)
     making apps is my specialty
     and i am a YouTuber
     i want to get 200 subs by
     2025
-    
-You can visit my [YouTube channel](https://www.youtube.com/channel/UCF35iqQ2BRqF4IYQA4Ln_0A)!!!
+
+#### Versions
+ [V1](https://github.com/VINITYYT/AppV1/raw/main/Gorilla%20Tag%20Mod%20HubV1.exe)!!!
 
 ---
 
