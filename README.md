@@ -4,7 +4,6 @@
 So Hello This Is a Passion Project Basically I Made It So It Can Be Easier To Modify The Game
 
 **CURRENT VERSION 1**
-####
 
 [My YouTube](www.youtube.com/channel/UCF35iqQ2BRqF4IYQA4Ln_0A?sub_confirmation=1)!!
 
