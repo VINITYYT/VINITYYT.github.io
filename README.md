@@ -10,6 +10,7 @@ So Hello This Is a Passion Project Basically I Made It So It Can Be Easier To Mo
 ### Version Info
 [V1](https://github.com/VINITYYT/Delights-V1/raw/main/Vinity's%20Delights-V1.zip) added base mods and fixed issuis
 > added base mods and fixed issuis
+
 [V2](https://github.com/VINITYYT/Delights-V2/raw/main/Vinity's%20Delights-V2.zip)
 > added more mods and fixed bugs.
 
