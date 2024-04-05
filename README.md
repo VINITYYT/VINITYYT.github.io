@@ -8,7 +8,7 @@ So Hello This Is a Passion Project Basically I Made It So It Can Be Easier To Mo
 [My YouTube](www.youtube.com/channel/UCF35iqQ2BRqF4IYQA4Ln_0A?sub_confirmation=1)!!
 
 ### Version Info
-[V1](https://github.com/VINITYYT/Delights-V1/raw/main/Vinity's%20Delights-V1.zip) added base mods and fixed issuis
+[V1](https://github.com/VINITYYT/Delights-V1/raw/main/Vinity's%20Delights-V1.zip) ( click on the blue text to download)
 > added base mods and fixed issuis
 
 [V2](https://github.com/VINITYYT/Delights-V2/raw/main/Vinity's%20Delights-V2.zip)
