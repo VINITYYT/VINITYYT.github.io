@@ -18,12 +18,12 @@ So Hello This Is a Passion Project Basically I Made It So It Can Be Easier To Do
 > added Better Building Generation And Structures
  
 #### Versions
- [V1](https://github.com/VINITYYT/Delights-V1/raw/main/Vinity's%20Delights-V1.zip)
+ [V1](https://github.com/VINITYYT/Delights-V1/raw/main/Vinity's%20Delights-V1.zip) > 21 Mods
  >
- [V2](https://github.com/VINITYYT/Delights-V2/raw/main/Vinity's%20Delights-V2.zip)
- >
- [V3](https://github.com/VINITYYT/Delights-V3/raw/main/Vinity's%20Delights-V3.zip)
- > 47 Mods
+ [V2](https://github.com/VINITYYT/Delights-V2/raw/main/Vinity's%20Delights-V2.zip) > 21 Mods
+
+ [V3](https://github.com/VINITYYT/Delights-V3/raw/main/Vinity's%20Delights-V3.zip) > 47 Mods
+ 
 ---
 
 So Um That's It For Today
