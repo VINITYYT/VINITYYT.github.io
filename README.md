@@ -1,7 +1,7 @@
 # My ModPack Download Site
 (Made By Vinity)
 
-So Hello This Is a Passion Project Basically I Made It So It Can Be Easier To Download the game 
+So Hello This Is a Passion Project Basically I Made It So It Can Be Easier To Download the Mod Pack
 
 **CURRENT VERSION V2**
 
