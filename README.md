@@ -16,6 +16,9 @@ So Hello This Is a Passion Project Basically I Made It So It Can Be Easier To Do
 
 [V3](https://github.com/VINITYYT/Delights-V3/raw/main/Vinity's%20Delights-V3.zip) ( click on the blue text to download)
 > added Better Building Generation And Structures
+
+[V4](https://github.com/VINITYYT/Delights-V4/raw/main/Vinity's%20Delights-V4.zip) ( click on the blue text to download)
+> added more Structures Animation and More Food Items
  
 #### Versions
  [V1](https://github.com/VINITYYT/Delights-V1/raw/main/Vinity's%20Delights-V1.zip) 
@@ -26,6 +29,9 @@ So Hello This Is a Passion Project Basically I Made It So It Can Be Easier To Do
 
  [V3](https://github.com/VINITYYT/Delights-V3/raw/main/Vinity's%20Delights-V3.zip) 
  > 47 Mods
+
+ [V4](https://github.com/VINITYYT/Delights-V4/raw/main/Vinity's%20Delights-V4.zip) 
+ > 61 Mods
 
 ---
 
