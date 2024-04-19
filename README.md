@@ -3,7 +3,7 @@
 
 So Hello This Is a Passion Project Basically I Made It So It Can Be Easier To Download the Mod Pack
 
-**CURRENT VERSION V2**
+**CURRENT VERSION V6**
 
 [My YouTube](www.youtube.com/channel/UCF35iqQ2BRqF4IYQA4Ln_0A?sub_confirmation=1)!!
 
@@ -23,6 +23,9 @@ So Hello This Is a Passion Project Basically I Made It So It Can Be Easier To Do
  [V5](https://github.com/VINITYYT/Delights-V5/raw/main/Vinity's%20Delights-V5.zip) ( click on the blue text to download )
 > added more furniture And Performince Fixes ( Quick Load )
 
+ [V6](https://github.com/VINITYYT/Delights-V6/raw/main/Vinity's%20Delights-V6.zip) ( click on the blue text to download )
+> added more Performince Mods and Optifine
+
 #### Versions
  [V1](https://github.com/VINITYYT/Delights-V1/raw/main/Vinity's%20Delights-V1.zip) 
  > 21 Mods
@@ -39,6 +42,8 @@ So Hello This Is a Passion Project Basically I Made It So It Can Be Easier To Do
  [V5](https://github.com/VINITYYT/Delights-V5/raw/main/Vinity's%20Delights-V5.zip) 
  > 69 Mods
 
+ [V6](https://github.com/VINITYYT/Delights-V6/raw/main/Vinity's%20Delights-V6.zip)
+ > 80 Mods
 ---
 
 So Um That's It For Today
