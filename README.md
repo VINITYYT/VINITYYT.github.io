@@ -24,7 +24,7 @@ So Hello This Is a Passion Project Basically I Made It So It Can Be Easier To Do
 > added more furniture And Performince Fixes ( Quick Load )
 
  [V6](https://github.com/VINITYYT/Delights-V6/raw/main/Vinity's%20Delights-V6.zip) ( click on the blue text to download )
-> added more Performince Mods and Optifine
+> added more Performince Mods and edded Complementary Shaders - Reimagined
 
 #### Versions
  [V1](https://github.com/VINITYYT/Delights-V1/raw/main/Vinity's%20Delights-V1.zip) 
@@ -43,7 +43,7 @@ So Hello This Is a Passion Project Basically I Made It So It Can Be Easier To Do
  > 69 Mods
 
  [V6](https://github.com/VINITYYT/Delights-V6/raw/main/Vinity's%20Delights-V6.zip)
- > 80 Mods
+ > 79 Mods
 ---
 
 So Um That's It For Today
