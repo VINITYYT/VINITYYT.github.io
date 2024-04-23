@@ -3,7 +3,7 @@
 
 So Hello This Is a Passion Project Basically I Made It So It Can Be Easier To Download the Mod Pack
 
-**CURRENT VERSION V6**
+**CURRENT VERSIONS 7**
 
 [My YouTube](www.youtube.com/channel/UCF35iqQ2BRqF4IYQA4Ln_0A?sub_confirmation=1)!!
 
@@ -26,6 +26,9 @@ So Hello This Is a Passion Project Basically I Made It So It Can Be Easier To Do
  [V6](https://github.com/VINITYYT/Delights-V6/raw/main/Vinity's%20Delights-V6.zip) ( click on the blue text to download )
 > added more Performince Mods and edded Complementary Shaders - Reimagined
 
+ [V7](https://github.com/VINITYYT/Delights-V7/raw/main/Vinity's%20Delights-V7.zip) ( click on the blue text to download )
+> added over 290 Bioms and structers
+
 #### Versions
  [V1](https://github.com/VINITYYT/Delights-V1/raw/main/Vinity's%20Delights-V1.zip) 
  > 21 Mods
@@ -44,6 +47,10 @@ So Hello This Is a Passion Project Basically I Made It So It Can Be Easier To Do
 
  [V6](https://github.com/VINITYYT/Delights-V6/raw/main/Vinity's%20Delights-V6.zip)
  > 79 Mods
+
+ [V7](https://github.com/VINITYYT/Delights-V7/raw/main/Vinity's%20Delights-V7.zip)
+ > 79 Mods
+
 ---
 
 So Um That's It For Today
