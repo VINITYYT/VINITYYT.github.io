@@ -1,9 +1,10 @@
 # My ModPack Download Site
+# < made by vinity
 (Made By Vinity)
 
 So Hello This Is a Passion Project Basically I Made It So It Can Be Easier To Download the Mod Pack
 
-**CURRENT VERSIONS 7**
+**CURRENT VERSIONS 8**
 
 [My YouTube](www.youtube.com/channel/UCF35iqQ2BRqF4IYQA4Ln_0A?sub_confirmation=1)!!
 
@@ -29,6 +30,9 @@ So Hello This Is a Passion Project Basically I Made It So It Can Be Easier To Do
  [V7](https://github.com/VINITYYT/Delights-V7/raw/main/Vinity's%20Delights-V7.zip) ( click on the blue text to download )
 > added over 290 Bioms and structers
 
+ [V8](https://github.com/VINITYYT/Delights-V8/raw/main/Vinity's%20Delights-V8.zip) ( click on the blue text to download )
+> added over 93 mobs and structers for each mob
+
 #### Versions
  [V1](https://github.com/VINITYYT/Delights-V1/raw/main/Vinity's%20Delights-V1.zip) 
  > 21 Mods
@@ -50,6 +54,9 @@ So Hello This Is a Passion Project Basically I Made It So It Can Be Easier To Do
 
  [V7](https://github.com/VINITYYT/Delights-V7/raw/main/Vinity's%20Delights-V7.zip)
  > 79 Mods
+
+ [V8](https://github.com/VINITYYT/Delights-V8/raw/main/Vinity's%20Delights-V8.zip)
+ > 87 Mods
 
 ---
 
