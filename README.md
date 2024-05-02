@@ -33,6 +33,9 @@ So Hello This Is a Passion Project Basically I Made It So It Can Be Easier To Do
  [V8](https://github.com/VINITYYT/Delights-V8/raw/main/Vinity's%20Delights-V8.zip) ( click on the blue text to download )
 > added over 93 mobs and structers for each mob
 
+ [V9](https://github.com/VINITYYT/Delights-V9/raw/main/Vinity's%20Delights-V9.zip) ( click on the blue text to download )
+> added ALOT OF structers (i dont even know how meny) and some mods 
+
 #### Versions
  [V1](https://github.com/VINITYYT/Delights-V1/raw/main/Vinity's%20Delights-V1.zip) 
  > 21 Mods
@@ -57,6 +60,9 @@ So Hello This Is a Passion Project Basically I Made It So It Can Be Easier To Do
 
  [V8](https://github.com/VINITYYT/Delights-V8/raw/main/Vinity's%20Delights-V8.zip)
  > 87 Mods
+
+ [V9](https://github.com/VINITYYT/Delights-V9/raw/main/Vinity's%20Delights-V9.zip)
+ > 103 Mods
 
 ---
 
