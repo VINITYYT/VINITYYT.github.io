@@ -62,7 +62,7 @@ So Hello This Is a Passion Project Basically I Made It So It Can Be Easier To Do
  > 87 Mods
 
  [V9](https://github.com/VINITYYT/Delights-V9/raw/main/Vinity's%20Delights-V9.zip)
- > 103 Mods
+ > 104 Mods
 
 ---
 
