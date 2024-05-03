@@ -67,11 +67,4 @@ So Hello This Is a Passion Project Basically I Made It So It Can Be Easier To Do
 ---
 
 So Um That's It For Today ALSO
->
->Subject: Rice_Rat Clayton Melbourne Victoria Australia Jan 1 2012/2007
->School : Oakleigh South Primary School
->[House](https://www.google.com/maps/@-37.9199459,145.1108073,3a,75y,267.66h,90t/data=!3m6!1e1!3m4!1sNKL6XYKuV_yJUMLwbLZ1_Q!2e0!7i16384!8i8192?entry=ttu)
->IPv4   : 180.150.38.59
->ISP    : Aussie BroadBand
->Address: 13 Kay ct Clayton Melbourne Victoria 3168
->Street : Robinson
+> RiceRat is gay 
