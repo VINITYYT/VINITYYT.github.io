@@ -34,7 +34,10 @@ So Hello This Is a Passion Project Basically I Made It So It Can Be Easier To Do
 > added over 93 mobs and structers for each mob
 
  [V9](https://github.com/VINITYYT/Delights-V9/raw/main/Vinity's%20Delights-V9.zip) ( click on the blue text to download )
-> added ALOT OF structers (i dont even know how meny) and some mods 
+> added ALOT OF structers (i dont even know how meny) and some mods
+
+ [V10](https://github.com/VINITYYT/Delights-V10/raw/main/Vinity's%20Delights-V10.zip) ( click on the blue text to download )
+> added Mostly magic and storage mods and also added mdos to make the world seam more realistic
 
 #### Versions
  [V1](https://github.com/VINITYYT/Delights-V1/raw/main/Vinity's%20Delights-V1.zip) 
@@ -63,6 +66,9 @@ So Hello This Is a Passion Project Basically I Made It So It Can Be Easier To Do
 
  [V9](https://github.com/VINITYYT/Delights-V9/raw/main/Vinity's%20Delights-V9.zip)
  > 104 Mods
+
+ [V10](https://github.com/VINITYYT/Delights-V10/raw/main/Vinity's%20Delights-V10.zip)
+ > 138 Mods
 
 ---
 
