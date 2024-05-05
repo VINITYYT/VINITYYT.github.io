@@ -37,7 +37,7 @@ So Hello This Is a Passion Project Basically I Made It So It Can Be Easier To Do
 > added ALOT OF structers (i dont even know how meny) and some mods
 
  [V10](https://github.com/VINITYYT/Delights-V10/raw/main/Vinity's%20Delights-V10.zip) ( click on the blue text to download )
-> added Mostly magic and storage mods and also added mdos to make the world seam more realistic
+> added Mostly magic and storage mods and also added mods to make the world seam more realistic
 
 #### Versions
  [V1](https://github.com/VINITYYT/Delights-V1/raw/main/Vinity's%20Delights-V1.zip) 
