@@ -1,7 +1,7 @@
 # My ModPack Download Site
 # < made by vinity
 (Made By Vinity)
-<span style="color: #f2cf4a; font-family: Babas; font-size: 2em;">INSPIRATION DAY</span>
+
 So Hello This Is a Passion Project Basically I Made It So It Can Be Easier To Download the Mod Pack
 
 **CURRENT VERSIONS 10**
