@@ -1,8 +1,8 @@
-# Vinity Delight's ModPack Download site Better then Distant Horizons Pack
+# Vinity Delight's Download site
 # < made by vinity
 (Made By Vinity)
 
-So Hello This Is a Passion Project Basically I Made It So It Can Be Easier To Download the Mod Pack
+So Hello This Is a Passion Project Basically I Made It So It Can Be Easier To Download the Mod Pack Versions
 
 **CURRENT VERSIONS 10**
 
