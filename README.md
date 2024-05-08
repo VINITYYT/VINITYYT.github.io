@@ -1,4 +1,4 @@
-# My ModPack Download Site
+# Vinity's ModPack Download site ( better then Distant Horizons )
 # < made by vinity
 (Made By Vinity)
 
