@@ -1,4 +1,4 @@
-# Vinity's ModPack Download site ( better then Distant Horizons )
+# Vinity Delight's Download site 
 # < made by vinity
 (Made By Vinity)
 
