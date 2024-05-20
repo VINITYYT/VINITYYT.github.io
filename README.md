@@ -70,7 +70,7 @@ So Hello This Is a Passion Project Basically I Made It So It Can Be Easier To Do
 </details>
 
 [My YouTube](www.youtube.com/channel/UCF35iqQ2BRqF4IYQA4Ln_0A?sub_confirmation=1)!
-[https://discord.gg/Vinity's-Delight's-Reborn](https://discord.gg/FuW7afAr)
+[My Discord](https://discord.gg/FuW7afAr)
 
 <details close>
 <summary># Vinity Delight's Reborn's Download site (click to Open/Close)</summary>
