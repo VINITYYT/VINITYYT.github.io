@@ -7,10 +7,13 @@ So Hello This Is a Passion Project Basically I Made It So It Can Be Easier To Do
  
 [My YouTube](www.youtube.com/channel/UCF35iqQ2BRqF4IYQA4Ln_0A?sub_confirmation=1)
 
+![youtube-play-button-28298 (1)](https://github.com/VINITYYT/VINITYYT.github.io/assets/153539666/3f03d64e-1760-4cca-9824-20d023bfb319)
+
 [My Discord](https://discord.gg/FuW7afAr)
 
-[My GitHub](https://github.com/VINITYYT)
+![discord-logo-png-7617 (1)](https://github.com/VINITYYT/VINITYYT.github.io/assets/153539666/508c0a01-22cc-4f67-a7c7-78315258ec65)
 
+[My GitHub](https://github.com/VINITYYT)
 
 ![github-mark](https://github.com/VINITYYT/VINITYYT.github.io/assets/153539666/aaa33654-8303-42d3-ab00-9d7262dd1008)
 
