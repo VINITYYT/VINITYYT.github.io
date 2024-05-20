@@ -1,6 +1,4 @@
 # Vinity Delight's Download site
-# < made by vinity
-(Made By Vinity)
 
 So Hello This Is a Passion Project Basically I Made It So It Can Be Easier To Download the Mod Pack Versions
 
@@ -73,4 +71,37 @@ So Hello This Is a Passion Project Basically I Made It So It Can Be Easier To Do
 
 ---
 
-So Um That's It For Today 
+# Vinity Delight's Reborn's Download site
+#### IP = Vinitys.aternos.me
+#### Discord
+
+[https://discord.gg/Vinity's-Delight's-Reborn](https://discord.gg/FuW7afAr)
+
+### Version Info
+[V1](https://github.com/VINITYYT/Delights-V1/raw/main/Vinity's%20Delights-V1.zip) ( click on [V1] to downlaod the Version 1 Of the modpack )
+
+> added base mods.
+
+#### Versions
+
+[V1](https://github.com/VINITYYT/Delights-V1/raw/main/Vinity's%20Delights-V1.zip) 
+> 20 Mods
+
+<details open>
+<summary>I automatically open</summary>
+<br>
+#### IP = Vinitys.aternos.me
+#### Discord
+
+[https://discord.gg/Vinity's-Delight's-Reborn](https://discord.gg/FuW7afAr)
+
+### Version Info
+[V1](https://github.com/VINITYYT/Delights-V1/raw/main/Vinity's%20Delights-V1.zip) ( click on [V1] to downlaod the Version 1 Of the modpack )
+
+> added base mods.
+
+#### Versions
+
+[V1](https://github.com/VINITYYT/Delights-V1/raw/main/Vinity's%20Delights-V1.zip) 
+> 20 Mods
+</details>
