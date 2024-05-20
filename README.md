@@ -11,10 +11,16 @@ So Hello This Is a Passion Project Basically I Made It So It Can Be Easier To Do
 
 [My GitHub](https://github.com/VINITYYT)
 
+
+![github-mark](https://github.com/VINITYYT/VINITYYT.github.io/assets/153539666/aaa33654-8303-42d3-ab00-9d7262dd1008)
+
 [My Spotify](https://open.spotify.com/user/315umoonax772l6xbhqztodnyzqe)
+
+![spotify-logo-png-7053 (1)](https://github.com/VINITYYT/VINITYYT.github.io/assets/153539666/555e7343-b191-437f-99c6-588f4b339273)
 
 [My Steam](https://steamcommunity.com/profiles/76561199164993898/)
 
+![steam-logo-transparent (1)](https://github.com/VINITYYT/VINITYYT.github.io/assets/153539666/7bb77548-2406-43e7-8c78-8a42580227d8)
 
 ![steam-logo-transparent (1)](https://github.com/VINITYYT/VINITYYT.github.io/assets/153539666/d097e0e5-b7a3-4747-a57f-d5c095cde671)
 
