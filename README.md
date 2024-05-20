@@ -74,11 +74,11 @@ So Hello This Is a Passion Project Basically I Made It So It Can Be Easier To Do
 
 
 
-<details open>
-<summary># Vinity Delight's Reborn's Download site (click to clsoe/open)</summary>
+<details close>
+<summary># Vinity Delight's Reborn's Download site (click to Open/Close)</summary>
 <br>
-### IP = Vinitys.aternos.me
-### Discord
+ IP = Vinitys.aternos.me
+ Discord
 
 [https://discord.gg/Vinity's-Delight's-Reborn](https://discord.gg/FuW7afAr)
 
