@@ -1,8 +1,9 @@
 # Vinity Delight's Download site
 
 So Hello This Is a Passion Project Basically I Made It So It Can Be Easier To Download the Mod Pack Versions
-
-**CURRENT VERSIONS 10**
+<details open>
+<summary># Vinity Delight's Reborn's Download site (click to clsoe/open)</summary>
+<br>
 
 [My YouTube](www.youtube.com/channel/UCF35iqQ2BRqF4IYQA4Ln_0A?sub_confirmation=1)!!
 
@@ -68,7 +69,7 @@ So Hello This Is a Passion Project Basically I Made It So It Can Be Easier To Do
 
  [V10](https://github.com/VINITYYT/Delights-V10/raw/main/Vinity's%20Delights-V10.zip)
  > 138 Mods
-
+</details>
 ---
 
 
