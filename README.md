@@ -16,7 +16,7 @@ So Hello This Is a Passion Project Basically I Made It So It Can Be Easier To Do
 [My Steam](https://steamcommunity.com/profiles/76561199164993898/)
 
 [My Twitch](https://www.twitch.tv/vinityyt)
-![free-twitch-3771096-3147774 (1)](https://github.com/VINITYYT/VINITYYT.github.io/assets/153539666/53e079b0-93b5-4772-b91f-1bf30bb39e0a)
+![free-twitch-3771096-3147774 (2)](https://github.com/VINITYYT/VINITYYT.github.io/assets/153539666/dc516fc9-0b54-49e4-9a2a-cedb73ba252e)
 
 </details>
 
