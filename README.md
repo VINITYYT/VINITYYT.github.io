@@ -38,7 +38,7 @@ So Hello This Is a Passion Project Basically I Made It So It Can Be Easier To Do
 
 
 <details close>
-<summary># Vinity Delight's (click to Open/Close)</summary>
+<summary> Vinity Delight's (click to Open/Close)</summary>
 <br>
 
 ### Version Info
@@ -106,7 +106,7 @@ So Hello This Is a Passion Project Basically I Made It So It Can Be Easier To Do
 </details>
 
 <details close>
-<summary># Vinity Delight's Reborn (click to Open/Close)</summary>
+<summary> Vinity Delight's Reborn (click to Open/Close)</summary>
 <br>
  IP = Vinitys.aternos.me
 
