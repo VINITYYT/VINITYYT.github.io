@@ -59,7 +59,7 @@ So Hello This Is a Passion Project Basically I Made It So It Can Be Easier To Do
 > added more furniture And Performince Fixes ( Quick Load )
 
  [V6](https://github.com/VINITYYT/Delights-V6/raw/main/Vinity's%20Delights-V6.zip) ( click on the blue text to download )
-> added more Performince Mods and edded Complementary Shaders - Reimagined
+> added more Performince Mods 
 
  [V7](https://github.com/VINITYYT/Delights-V7/raw/main/Vinity's%20Delights-V7.zip) ( click on the blue text to download )
 > added over 290 Bioms and structers
