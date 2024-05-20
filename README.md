@@ -80,12 +80,12 @@ So Hello This Is a Passion Project Basically I Made It So It Can Be Easier To Do
 [https://discord.gg/Vinity's-Delight's-Reborn](https://discord.gg/FuW7afAr)
 
 ### Version Info
-[V1](https://github.com/VINITYYT/Delights-V1/raw/main/Vinity's%20Delights-V1.zip) ( click on [V1] to downlaod the Version 1 Of the modpack )
+[V1](https://github.com/VINITYYT/V1R/raw/main/Vinity's%20Delight's%20%20Reborn-V1.zip) ( click on [V1] to downlaod the Version 1 Of the modpack )
 
 > added base mods.
 
 #### Versions
 
-[V1](https://github.com/VINITYYT/Delights-V1/raw/main/Vinity's%20Delights-V1.zip) 
+[V1](https://github.com/VINITYYT/V1R/raw/main/Vinity's%20Delight's%20%20Reborn-V1.zip) 
 > 20 Mods
 </details>
