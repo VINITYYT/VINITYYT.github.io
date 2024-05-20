@@ -38,7 +38,7 @@ So Hello This Is a Passion Project Basically I Made It So It Can Be Easier To Do
 
 
 <details close>
-<summary> Vinity Delight's (click to Open/Close)</summary>
+<summary>(VD) Vinity Delight's (click to Open/Close)</summary>
 <br>
 
 ### Version Info
@@ -106,9 +106,9 @@ So Hello This Is a Passion Project Basically I Made It So It Can Be Easier To Do
 </details>
 
 <details close>
-<summary> Vinity Delight's Reborn (click to Open/Close)</summary>
+<summary>(VDR) Vinity Delight's Reborn (click to Open/Close)</summary>
 <br>
- IP = Vinitys.aternos.me
+Server Ip = Vinitys.aternos.me
 
 ### Version Info
 [V1](https://github.com/VINITYYT/V1R/raw/main/Vinity's%20Delight's%20%20Reborn-V1.zip) ( click on [V1] to downlaod the Version 1 Of the modpack )
