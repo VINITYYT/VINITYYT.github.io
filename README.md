@@ -5,8 +5,6 @@ So Hello This Is a Passion Project Basically I Made It So It Can Be Easier To Do
 <summary># Vinity Delight's Download site (click to Open/Close)</summary>
 <br>
 
-[My YouTube](www.youtube.com/channel/UCF35iqQ2BRqF4IYQA4Ln_0A?sub_confirmation=1)!
-
 ### Version Info
 [V1](https://github.com/VINITYYT/Delights-V1/raw/main/Vinity's%20Delights-V1.zip) ( click on the blue text to download )
 
@@ -71,13 +69,13 @@ So Hello This Is a Passion Project Basically I Made It So It Can Be Easier To Do
  > 138 Mods
 </details>
 
+[My YouTube](www.youtube.com/channel/UCF35iqQ2BRqF4IYQA4Ln_0A?sub_confirmation=1)!
+[https://discord.gg/Vinity's-Delight's-Reborn](https://discord.gg/FuW7afAr)
+
 <details close>
 <summary># Vinity Delight's Reborn's Download site (click to Open/Close)</summary>
 <br>
  IP = Vinitys.aternos.me
- Discord
-
-[https://discord.gg/Vinity's-Delight's-Reborn](https://discord.gg/FuW7afAr)
 
 ### Version Info
 [V1](https://github.com/VINITYYT/V1R/raw/main/Vinity's%20Delight's%20%20Reborn-V1.zip) ( click on [V1] to downlaod the Version 1 Of the modpack )
