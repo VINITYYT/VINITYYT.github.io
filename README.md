@@ -4,31 +4,32 @@ So Hello This Is a Passion Project Basically I Made It So It Can Be Easier To Do
 <details close>
 <summary> My socails  (click to Open/Close)</summary>
 <br>
+
+ ![youtube-play-button-28298 (1)](https://github.com/VINITYYT/VINITYYT.github.io/assets/153539666/3f03d64e-1760-4cca-9824-20d023bfb319)
  
 [My YouTube](www.youtube.com/channel/UCF35iqQ2BRqF4IYQA4Ln_0A?sub_confirmation=1)
 
-![youtube-play-button-28298 (1)](https://github.com/VINITYYT/VINITYYT.github.io/assets/153539666/3f03d64e-1760-4cca-9824-20d023bfb319)
+![discord-logo-png-7617 (1)](https://github.com/VINITYYT/VINITYYT.github.io/assets/153539666/508c0a01-22cc-4f67-a7c7-78315258ec65)
 
 [My Discord](https://discord.gg/FuW7afAr)
 
-![discord-logo-png-7617 (1)](https://github.com/VINITYYT/VINITYYT.github.io/assets/153539666/508c0a01-22cc-4f67-a7c7-78315258ec65)
+![github-mark](https://github.com/VINITYYT/VINITYYT.github.io/assets/153539666/aaa33654-8303-42d3-ab00-9d7262dd1008)
 
 [My GitHub](https://github.com/VINITYYT)
 
-![github-mark](https://github.com/VINITYYT/VINITYYT.github.io/assets/153539666/aaa33654-8303-42d3-ab00-9d7262dd1008)
+![spotify-logo-png-7053 (1)](https://github.com/VINITYYT/VINITYYT.github.io/assets/153539666/555e7343-b191-437f-99c6-588f4b339273)
 
 [My Spotify](https://open.spotify.com/user/315umoonax772l6xbhqztodnyzqe)
 
-![spotify-logo-png-7053 (1)](https://github.com/VINITYYT/VINITYYT.github.io/assets/153539666/555e7343-b191-437f-99c6-588f4b339273)
+![steam-logo-transparent (1)](https://github.com/VINITYYT/VINITYYT.github.io/assets/153539666/7bb77548-2406-43e7-8c78-8a42580227d8)
 
 [My Steam](https://steamcommunity.com/profiles/76561199164993898/)
 
-![steam-logo-transparent (1)](https://github.com/VINITYYT/VINITYYT.github.io/assets/153539666/7bb77548-2406-43e7-8c78-8a42580227d8)
+![free-twitch-3771096-3147774 (2)](https://github.com/VINITYYT/VINITYYT.github.io/assets/153539666/84cdb70d-17cb-466a-96e1-5143ffe1af5b)
 
 [My Twitch](https://www.twitch.tv/vinityyt)
 
 
-![free-twitch-3771096-3147774 (2)](https://github.com/VINITYYT/VINITYYT.github.io/assets/153539666/84cdb70d-17cb-466a-96e1-5143ffe1af5b)
 
 </details>
 
