@@ -70,9 +70,6 @@ So Hello This Is a Passion Project Basically I Made It So It Can Be Easier To Do
  [V10](https://github.com/VINITYYT/Delights-V10/raw/main/Vinity's%20Delights-V10.zip)
  > 138 Mods
 </details>
----
-
-
 
 <details close>
 <summary># Vinity Delight's Reborn's Download site (click to Open/Close)</summary>
