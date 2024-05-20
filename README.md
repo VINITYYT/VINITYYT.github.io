@@ -71,11 +71,10 @@ So Hello This Is a Passion Project Basically I Made It So It Can Be Easier To Do
 
 ---
 
-# Vinity Delight's Reborn's Download site
 
 
 <details open>
-<summary>I automatically open</summary>
+<summary># Vinity Delight's Reborn's Download site (click to clsoe/open)</summary>
 <br>
 ### IP = Vinitys.aternos.me
 ### Discord
