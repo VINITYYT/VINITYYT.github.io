@@ -151,4 +151,3 @@ Server Ip = Vinitys.aternos.me
 
 [V1](https://github.com/VINITYYT/V1R/raw/main/Vinity's%20Delight's%20%20Reborn-V1.zip) 
 > 20 Mods
-</details>
