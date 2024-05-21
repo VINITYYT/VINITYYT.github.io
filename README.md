@@ -1,9 +1,7 @@
 # Vinity Delight's Download site
 
 So Hello This Is a Passion Project Basically I Made It So It Can Be Easier To Download the Mod Pack Versions
-<details close>
 <summary> My socails  (click to Open/Close)</summary>
-<br>
  
 >(Click on the link not the icon)
 
@@ -43,14 +41,7 @@ So Hello This Is a Passion Project Basically I Made It So It Can Be Easier To Do
 
 [My Twitch](https://www.twitch.tv/vinityyt)
 
-
-
-</details>
-
-
-<details close>
 <summary>(VD) Vinity Delight's (click to Open/Close)</summary>
-<br>
 
 ### Version Info
 [V1](https://github.com/VINITYYT/Delights-V1/raw/main/Vinity's%20Delights-V1.zip) ( click on the blue text to download )
