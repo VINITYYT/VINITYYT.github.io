@@ -134,7 +134,7 @@ So Hello This Is a Passion Project Basically I Made It So It Can Be Easier To Do
 
 [V2](https://github.com/VINITYYT/V1R/raw/main/Vinity's%20Delight's%20%20Reborn-V2.zip) ( click on [V2] to downlaod the Version 2 Of the modpack )
 
-> added Mods to make the game look better 
+> added A ton of new mods to make the game mroe fun
 
 #### Versions
 
