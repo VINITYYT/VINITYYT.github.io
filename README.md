@@ -1,10 +1,8 @@
 # Vinity Delight's Download site
 
 So Hello This Is a Passion Project Basically I Made It So It Can Be Easier To Download the Mod Pack Versions
-<summary> My socails  (click to Open/Close)</summary>
- 
->(Click on the link not the icon)
 
+ My socails 
 
  ![youtube-play-button-28298 (1)](https://github.com/VINITYYT/VINITYYT.github.io/assets/153539666/3f03d64e-1760-4cca-9824-20d023bfb319)
 
@@ -41,7 +39,7 @@ So Hello This Is a Passion Project Basically I Made It So It Can Be Easier To Do
 
 [My Twitch](https://www.twitch.tv/vinityyt)
 
-<summary>(VD) Vinity Delight's (click to Open/Close)</summary>
+#Vinity Delight's (VD)
 
 ### Version Info
 [V1](https://github.com/VINITYYT/Delights-V1/raw/main/Vinity's%20Delights-V1.zip) ( click on the blue text to download )
@@ -125,20 +123,23 @@ So Hello This Is a Passion Project Basically I Made It So It Can Be Easier To Do
  [V10](https://github.com/VINITYYT/Delights-V10/raw/main/Vinity's%20Delights-V10.zip)
  > 138 Mods
 
-
-</details>
-
-<details close>
-<summary>(VDR) Vinity Delight's Reborn (click to Open/Close)</summary>
-<br>
-Server Ip = Vinitys.aternos.me
+ Vinity Delight's Reborn (VDR)
+ 
+ Server Ip = Vinitys.aternos.me (should be automaticly in muiltiplayer tab but just incase)
 
 ### Version Info
 [V1](https://github.com/VINITYYT/V1R/raw/main/Vinity's%20Delight's%20%20Reborn-V1.zip) ( click on [V1] to downlaod the Version 1 Of the modpack )
 
 > added base mods.
 
+[V2](https://github.com/VINITYYT/V1R/raw/main/Vinity's%20Delight's%20%20Reborn-V2.zip) ( click on [V1] to downlaod the Version 1 Of the modpack )
+
+> added base mods.
+
 #### Versions
 
 [V1](https://github.com/VINITYYT/V1R/raw/main/Vinity's%20Delight's%20%20Reborn-V1.zip) 
+> 20 Mods
+
+[V1](https://github.com/VINITYYT/V1R/raw/main/Vinity's%20Delight's%20%20Reborn-V2.zip) 
 > 20 Mods
