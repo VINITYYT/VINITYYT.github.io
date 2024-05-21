@@ -141,5 +141,5 @@ So Hello This Is a Passion Project Basically I Made It So It Can Be Easier To Do
 [V1](https://github.com/VINITYYT/V1R/raw/main/Vinity's%20Delight's%20%20Reborn-V1.zip) 
 > 20 Mods
 
-[V2](https://github.com/VINITYYT/V1R/raw/main/Vinity's%20Delight's%20%20Reborn-V2.zip) 
+[V2](https://github.com/VINITYYT/V2R/raw/main/Vinity's%20Delight's%20%20Reborn-V2.zip) 
 > 40 Mods
