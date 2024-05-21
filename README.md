@@ -132,14 +132,14 @@ So Hello This Is a Passion Project Basically I Made It So It Can Be Easier To Do
 
 > added base mods.
 
-[V2](https://github.com/VINITYYT/V1R/raw/main/Vinity's%20Delight's%20%20Reborn-V2.zip) ( click on [V1] to downlaod the Version 1 Of the modpack )
+[V2](https://github.com/VINITYYT/V1R/raw/main/Vinity's%20Delight's%20%20Reborn-V2.zip) ( click on [V2] to downlaod the Version 2 Of the modpack )
 
-> added base mods.
+> added Mods to make the game look better 
 
 #### Versions
 
 [V1](https://github.com/VINITYYT/V1R/raw/main/Vinity's%20Delight's%20%20Reborn-V1.zip) 
 > 20 Mods
 
-[V1](https://github.com/VINITYYT/V1R/raw/main/Vinity's%20Delight's%20%20Reborn-V2.zip) 
-> 20 Mods
+[V2](https://github.com/VINITYYT/V1R/raw/main/Vinity's%20Delight's%20%20Reborn-V2.zip) 
+> 40 Mods
