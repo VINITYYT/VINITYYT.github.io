@@ -124,8 +124,6 @@ So Hello This Is a Passion Project Basically I Made It So It Can Be Easier To Do
  > 138 Mods
 
  Vinity Delight's Reborn (VDR)
- 
- Server Ip = Vinitys.aternos.me (should be automaticly in muiltiplayer tab but just incase)
 
 ### Version Info
 [V1](https://github.com/VINITYYT/V1R/raw/main/Vinity's%20Delight's%20%20Reborn-V1.zip) ( click on [V1] to downlaod the Version 1 Of the modpack )
