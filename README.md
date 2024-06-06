@@ -130,13 +130,17 @@ So Hello This Is a Passion Project Basically I Made It So It Can Be Easier To Do
 
 > added base mods.
 
-[V2](https://github.com/VINITYYT/V1R/raw/main/Vinity's%20Delight's%20%20Reborn-V2.zip) ( click on [V2] to downlaod the Version 2 Of the modpack )
+[V2](https://github.com/VINITYYT/V2R/raw/main/Vinity's%20Delight's%20%20Reborn-V2.zip) ( click on [V2] to downlaod the Version 2 Of the modpack )
 
 > added A ton of new mods to make the game mroe fun
 
-[V3](https://github.com/VINITYYT/V1R/raw/main/Vinity's%20Delight's%20%20Reborn-V2.zip) ( click on [V3] to downlaod the Version 2 Of the modpack )
+[V3](https://github.com/VINITYYT/V3R/raw/main/Vinity's%20Delight's%20%20Reborn-V3.zip) ( click on [V3] to downlaod the Version 2 Of the modpack )
 
 > added A lot of Mods to make it feal mroe Realistic
+
+[V4](https://github.com/VINITYYT/V4R/raw/main/Vinity's%20Delight's%20%20Reborn-V4.zip) ( click on [V3] to downlaod the Version 2 Of the modpack )
+
+> added A lot of Mods to make The Game And Server Run Smother' Also added some other Mods.
 
 #### Versions
 
@@ -148,3 +152,6 @@ So Hello This Is a Passion Project Basically I Made It So It Can Be Easier To Do
 
 [V3](https://github.com/VINITYYT/V3R/raw/main/Vinity's%20Delight's%20%20Reborn-V3.zip) 
 > 60 Mods
+
+[V4](https://github.com/VINITYYT/V4R/raw/main/Vinity's%20Delight's%20%20Reborn-V4.zip) 
+> 80 Mods
