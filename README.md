@@ -39,7 +39,7 @@ So Hello This Is a Passion Project Basically I Made It So It Can Be Easier To Do
 
 [My Twitch](https://www.twitch.tv/vinityyt)
 
-#Vinity Delight's (VD)
+# Vinity Delight's (VD)
 
 ### Version Info
 [V1](https://github.com/VINITYYT/Delights-V1/raw/main/Vinity's%20Delights-V1.zip) ( click on the blue text to download )
@@ -123,7 +123,7 @@ So Hello This Is a Passion Project Basically I Made It So It Can Be Easier To Do
  [V10](https://github.com/VINITYYT/Delights-V10/raw/main/Vinity's%20Delights-V10.zip)
  > 138 Mods
 
-#Vinity Delight's Reborn (VDR)
+# Vinity Delight's Reborn (VDR)
 
 ### Version Info
 [V1](https://github.com/VINITYYT/V1R/raw/main/Vinity's%20Delight's%20%20Reborn-V1.zip) ( click on [V1] to downlaod the Version 1 Of the modpack )
